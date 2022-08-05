@@ -1,0 +1,70 @@
+#customer-stat{
+
+background-color: aliceblue;
+/* height: 100px; */
+
+}
+/* feature section  */
+#features {
+    position: relative;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+    /* align-items: center; */
+  }
+  
+  .feature-box {
+    padding: 4.5%;
+
+  }
+  
+  .icon {
+    color: hsl(224, 58%, 52%);
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+  }
+  
+  .icon:hover {
+    color: #ff0026;
+  }
+  /* about us using  */
+  .plx {
+  /* The image used */
+  background-image: url("./img/med3a.png");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ci{
+
+border-radius: 100%;
+
+
+}
+.colored-section{
+background-color: rgb(161, 157, 246);
+
+
+}
+/* social media  */
+.social-icon {
+    margin: 20px 10px;
+  }
+  .white-section {
+    background-color:rgb(255, 255, 255);
+   
+  }
+
+  .gallery{
+background-color: skyblue;
+
+
+  }
+  
